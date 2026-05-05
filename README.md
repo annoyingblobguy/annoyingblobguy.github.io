@@ -42,8 +42,16 @@ potato: yes
 
 ---
 
+adding a plane cuz my friend wanted me to
+
+<img width="700" height="397" alt="image" src="https://github.com/user-attachments/assets/de5f60da-a568-459d-bcb2-78f42680e6d0" />
+
+
+---
+
 0m9 y0u c4n- yeah i give up doing this 1337- lets try that again...
 
 omg you can look at the website source repo thing [here](https://github.com/annoyingblobguy/annoyingblobguy.github.io/).
 
 (if this isnt obvious, this site was built using [GitHub Pages](https://pages.github.com/).)
+
