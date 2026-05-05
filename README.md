@@ -5,9 +5,9 @@ annoying blob's website
 
 0m9 1 m4d3 4 w3b5173!
 
-4nd 175 0n 7h3 917|-|ub d0/\/\41N!!!111
+4nd 175 0n 7h3 917\|-\|ub d0/\/\41N!!!111
 
-1 4/\/\ /\/\4573r|-|4xxerrrr!!111
+1 4/\/\ /\/\4573r\|-\|4xxerrrr!!111
 
 (this is satire btw)
 
