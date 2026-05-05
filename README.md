@@ -1,5 +1,5 @@
 # annoyingblobguy.github.io
-annoying blob's website
+annoying blob's website (im still figuring out how gh pages work lol)
 
 ---
 
@@ -39,3 +39,11 @@ annoying: yes.
 procrastinates: too much
 
 potato: yes
+
+---
+
+0m9 y0u c4n- yeah i give up doing this 1337- lets try that again...
+
+omg you can look at the website source repo thing [here](https://github.com/annoyingblobguy/annoyingblobguy.github.io/).
+
+(if this isnt obvious, this site was built using [GitHub Pages](https://pages.github.com/).)
