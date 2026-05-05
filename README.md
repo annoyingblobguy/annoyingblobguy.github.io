@@ -44,8 +44,9 @@ potato: yes
 
 adding a plane cuz my friend wanted me to
 
-<img width="700" height="397" alt="image" src="https://github.com/user-attachments/assets/de5f60da-a568-459d-bcb2-78f42680e6d0" />
-
+<img width="1920" height="1275" alt="image" src="https://github.com/user-attachments/assets/b380fe4b-a50c-4e91-86cd-d6e18347c7fc" />
+(American Airlines Boeing 737.jpg by abdallahh is licensed under cc by 2.0 i think im legally required to say that or smth)
+(i got it [here](https://commons.wikimedia.org/wiki/File:American_Airlines_Boeing_737.jpg))
 
 ---
 
